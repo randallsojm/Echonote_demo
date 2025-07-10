@@ -1,0 +1,16 @@
+
+openai-whisper
+sentence-transformers
+scikit-learn
+langchain>=0.1.0
+langchain-community
+langchain-core
+langchain-ollama
+ollama
+faiss-cpu
+transformers>=4.35.0
+sentence-transformers>=2.2.2
+huggingface-hub>=0.21.4
+docx2txt
+python-docx
+pydantic>=1.10.0

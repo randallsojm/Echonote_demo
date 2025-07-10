@@ -1,0 +1,27 @@
+{
+<<<<<<< HEAD
+  "name": "audio-recorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+=======
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1"
+>>>>>>> a224c0160c827c92d0fad94372eaf11dbeb214ee
+  }
+}
