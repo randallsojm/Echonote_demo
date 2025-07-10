@@ -1,0 +1,66 @@
+0.00 --> 0.10 | A
+ Alright, let's start with cyber security.  Probably the most urgent topic right now.  We have seen a 40% increase in cyber incursions just in the past year.
+
+0.10 --> 0.20 | B
+ Right, and what's most concerning is the shift towards AI driven attacks.  These are just isolated features anymore.  They are automated, persistent, and adaptive.
+
+0.20 --> 0.33 | A
+ Exactly.  Traditional firewalls and intrusion detection systems are becoming obsolete against deep learning based cyber threats.  We need a paradigm shift in how we define critical infrastructure.
+
+0.33 --> 0.37 | B
+ Which means moving towards real-time AI enhanced threat detection.
+
+0.37 --> 0.50 | A
+ The problem is policy resistance.  I know some officials still see AI in cyber security as a black box risk, but frankly, we don't have a choice.  Without it, we are already behind.
+
+0.50 --> 1.00 | B
+ Agree.  Let's click this for our next meeting with the cyber security task force.  The show's so prepared that a risk assessment report highlighting recent AI driven breaches.
+
+1.00 --> 1.13 | A
+ Good idea.  I'll have my team draft and initial report by Friday.  Moving on to AI in warfare, the integration of AI in combat systems is accelerating.
+
+1.13 --> 1.23 | B
+ They are barely keeping out with ethical regulations.  Fully autonomous drones, AI assist targeting systems.  We need clearer rules.
+
+1.23 --> 1.35 | A
+ Absolutely.  The Geneva Convention doesn't even cover AI driven weapons yet.  We're entering a gray area where little decisions could be made without human oversight.
+
+1.35 --> 1.44 | B
+ Only when AI system misidentifies surveillance as combatants, who's accountable.  The manufacturer, the military.  Precisely.
+
+1.44 --> 1.50 | A
+ We need policy framework that mandates human in the loop oversight for little decisions.
+
+1.50 --> 2.00 | B
+ Which is what the EU is pushing for.  Some defense agencies argue that human oversight slows response time in high intensity conflicts.
+
+2.00 --> 2.11 | A
+ Well, it's a trade-off for faster decisions but higher risk.  Our recommendations should be faced AI integration, starting with intelligence and surveillance before direct combat deployment.
+
+2.11 --> 2.20 | B
+ Our draft section on that also.  Should we organize a consultation with legal and military ethics experts?
+
+2.20 --> 2.37 | A
+ Yes.  Let's share the one for next month.  Our coordinate with the legal affairs department.  All right, next.  Regional stability.  The soft China Sea remains a flashpoint.  Increased naval deployments can deter aggression but they also risk escalation.
+
+2.37 --> 2.46 | B
+ Exactly.  We need a deterrent strategy that isn't overly aggressive.  Expanding joint military exercises with allies could help.
+
+2.46 --> 2.56 | A
+ Agree.  And we need to enhance maritime domain awareness.  All the time satellite surveillance.  AI driven anomaly detection in shipping routes.
+
+2.56 --> 3.05 | B
+ And what about hybrid trades?  We're seeing more gray zone tactics.  Cyber warfare, economic coercion, misinformation campaigns.
+
+3.05 --> 3.16 | A
+ That's a growing concern indeed.  Military strength isn't enough.  We need whole of government coordination.  Cyber trade policy, public diplomacy.
+
+3.16 --> 3.24 | B
+ Because modern warfare isn't just connected.  It's for in cyber space, in financial markets, even in the media.
+
+3.24 --> 3.28 | A
+ Exactly.  We should push for cross agency coordination meetings.
+
+3.28 --> 3.31 | B
+ Good call.  I'll reach out to the Foreign Affairs and Cyber Security teams.
+

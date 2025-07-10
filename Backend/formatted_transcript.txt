@@ -1,0 +1,101 @@
+﻿0:00 - 0:05
+ Speaker A: Hi everyone, I’m Alex.
+0:05 - 0:07
+ Speaker B: Hey, I’m Ben.
+0:07 - 0:09
+ Speaker C: Hi, I’m Cheryl.
+0:09 - 0:11
+ Speaker D: And I’m Daniel.
+0:11 - 0:20
+ Speaker A: First topic—autonomous surveillance drones. We’ve been getting feedback that our low-light detection is unreliable. The AI is misclassifying some objects.
+0:20 - 0:28
+ Speaker B: Yah, I tested it and the system flagged a dustbin as a human. If this goes into real deployment, we’ll have a lot of false alarms.
+0:28 - 0:35
+ Speaker C: That’s likely due to the thermal detection model. It’s too sensitive to small heat sources, and the AI isn’t good at distinguishing them.
+0:35 - 0:42
+ Speaker D: True, but if we reduce sensitivity, we might miss actual threats, like a hidden enemy. We need to find a middle ground.
+0:42 - 0:48
+ Speaker A: Maybe a multi-layered detection system? We can combine thermal with visual input to cross-check.
+0:48 - 0:55
+ Speaker C: That would work, but it adds processing overhead. The drone’s current CPU might not handle it well.
+0:55 - 1:02
+ Speaker B: And more sensors will increase power consumption. Right now, the battery lasts only 40 minutes.
+1:02 - 1:10
+ Speaker D: Can we use onboard AI for initial filtering? That way, only the most promising alerts are sent back to the control center.
+1:10 - 1:18
+ Speaker A: That could work. But we also need to ensure real-time performance for immediate responses.
+1:18 - 1:25
+ Speaker C: I suggest we also test using synthetic data to train the system in different environments, like fog and rain.
+1:25 - 1:30
+ Speaker A: Good idea, Cheryl. Let’s proceed with:
+1. Improving AI fusion between thermal and visual.
+2. Testing onboard filtering with new models.
+3. Power optimization strategies.
+1:30 - 1:35
+ Speaker B: By the way, anyone into drones as a hobby? It’s pretty fun to fly one lah.
+1:35 - 1:38
+ Speaker D: Only if it’s military-grade.
+1:38 - 1:42
+ Speaker D: Moving on to the next topic—military communication encryption. We’ve been facing delays in message decryption. Currently, the process adds about 1.2 seconds per message.
+1:42 - 1:48
+ Speaker A: That’s far too slow, especially for real-time operations. What’s the cause?
+1:48 - 1:54
+ Speaker C: Likely the asymmetric encryption overhead. We’re re-keying every message, which adds latency.
+1:54 - 2:00
+ Speaker B: Re-keying does add security, but it’s slowing us down. What if we just use symmetric encryption for session-based communication?
+2:00 - 2:07
+ Speaker D: Symmetric encryption is faster, but the key management is the problem. If keys are compromised, everything is at risk.
+2:07 - 2:14
+ Speaker A: We need to figure out a way to balance speed and security. Maybe hybrid encryption—asymmetric for key exchange and symmetric for actual communication?
+2:14 - 2:20
+ Speaker C: Hybrid encryption would help, but we still need to ensure the key exchange process is secure.
+2:20 - 2:26
+ Speaker B: Can we offload encryption to specialized hardware? It could speed up decryption.
+2:26 - 2:32
+ Speaker D: Some devices don’t have that hardware support. We can’t assume every unit will have it.
+2:32 - 2:38
+ Speaker A: So we need a flexible solution—one that works on both high-end and low-end devices.
+2:38 - 2:44
+ Speaker C: I’ll optimize the key exchange protocol to minimize latency.
+2:44 - 2:48
+ Speaker D: I’ll evaluate the hardware compatibility and look into potential risks.
+2:48 - 2:54
+ Speaker A: Let’s aim for improving speed without compromising security. We’ll:
+1. Test hybrid encryption with symmetric and asymmetric systems.
+2. Measure performance on different devices.
+3. Refine key management strategies.
+2:54 - 3:00
+ Speaker B: How about we also look into encrypted voice communications? Heard it sounds terrible at times.
+3:00 - 3:04
+ Speaker D: Maybe the encryption adds too much noise. We’ll test it.
+3:04 - 3:08
+ Speaker A: Next topic—AI-based threat detection for our naval radar systems. The system’s been flagging non-threatening vessels like fishing boats as potential threats.
+3:08 - 3:15
+ Speaker C: That’s because we trained it mostly on military vessel data. Now, the system assumes anything unfamiliar is a threat.
+3:15 - 3:22
+ Speaker B: What if we add behavioral analysis? We could flag unusual movements, like erratic course changes or sudden stops.
+3:22 - 3:28
+ Speaker D: But how do we define “suspicious behavior”? Without a clear baseline, the system will keep making mistakes.
+3:28 - 3:34
+ Speaker A: We can build a behavioral database from historical naval operations.
+3:34 - 3:40
+ Speaker C: The problem is that real-world data is highly classified. We might not get approval to access that data.
+3:40 - 3:46
+ Speaker B: Then we could generate synthetic data for early-stage training. It won’t be perfect, but it’ll get us started.
+3:46 - 3:52
+ Speaker D: Synthetic data could work, but if it’s too unrealistic, the AI will fail in real-world conditions.
+3:52 - 3:58
+ Speaker A: Maybe we should start with low-risk zones—places where there’s less interference and try to fine-tune the system before scaling up.
+3:58 - 4:04
+ Speaker C: Good idea. We can also update the radar sensors to better distinguish between military and non-military vessels.
+4:04 - 4:08
+Speaker D: Action items:
+1. Cheryl: Improve AI behavioral detection.
+2. Ben: Design a more intuitive UI to reduce operator confusion.
+3. Daniel: Investigate data access and security implications.
+4:08 - 4:12
+ Speaker A: Let’s aim to reduce false positives by at least 50% in the next test.
+4:12 - 4:16
+ Speaker B: Speaking of naval tech, anyone here got seasick on a boat? I almost passed out last weekend.
+4:16 - 4:20
+ Speaker C: I’ll take a submarine any day—no waves.
